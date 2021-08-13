@@ -1,0 +1,15 @@
+{
+    "description": "A list of places.",
+    "items": [
+        "cave",
+        "forest",
+        "desert",
+        "plains",
+        "grassland",
+        "yard",
+        "field",
+        "garden",
+        "pond",
+        "meadow"
+    ]
+}
