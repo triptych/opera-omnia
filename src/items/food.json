@@ -1,0 +1,11 @@
+{
+    "description": "A list of food items.",
+    "items":[
+        "apple",
+        "grape",
+        "bread",
+        "egg",
+        "steak",
+        "chicken leg"
+    ]
+}
