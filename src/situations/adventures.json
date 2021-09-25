@@ -1,6 +1,9 @@
 {
-    "description": "A list of adventures",
+    "description": "A list of adventures.",
     "items": [
-        "a cruise around the world"
+        "a cruise around the world",
+        "rebuilding a broken mechanical person",
+        "replacing all the broken magical gems across the world",
+        "taking a transformed person to a magical place to lift a curse"
     ]
 }
