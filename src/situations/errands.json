@@ -1,0 +1,31 @@
+{
+    "description": "a list of common errands",
+    "items":[
+        "clean the kitchen",
+        "wash the clothes",
+        "go to the nearby store and get food staples",
+        "deliver a package to a nearby patron",
+        "deliver a bottle of medicine to a sick person",
+        "sort all the books in the library by author's name",
+        "feed the pet",
+        "take out the trash",
+        "clean up the attic",
+        "water the garden",
+        "paint the outside of the house",
+        "deliver money to the bank",
+        "pay the bills",
+        "clean the living room",
+        "find missing glasses",
+        "go buy a book from the local bookstore",
+        "sweep all the floors",
+        "weed the garden",
+        "water the flowers",
+        "bake bread",
+        "prepare dinner",
+        "wash dishes",
+        "prepare lunch",
+        "repare clothing",
+        "wash the windows"
+    ]
+
+}

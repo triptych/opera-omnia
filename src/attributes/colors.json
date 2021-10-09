@@ -1,0 +1,22 @@
+{
+    "description": "a list of colors",
+    "items": [
+        "black",
+        "silver",
+        "gray",
+        "white",
+        "maroon",
+        "red",
+        "purple",
+        "fuschia",
+        "green",
+        "lime",
+        "olive",
+        "yellow",
+        "navy",
+        "blue",
+        "teal",
+        "aqua"
+
+    ]
+}
