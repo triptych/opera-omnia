@@ -1,0 +1,24 @@
+{
+    "description": "a list of all the lists!",
+    "items": [
+        "animals/animals.json",
+        "animals/monsters.json",
+        "attributes/adjectives.json",
+        "attributes/adverbs.json",
+        "attributes/colors.json",
+        "items/food.json",
+        "items/treasure.json",
+        "locations/places.json",
+        "locations/rooms.json",
+        "locations/weather.json",
+        "people/class.json",
+        "people/npcs.json",
+        "situations/adventures.json",
+        "situations/encounters.json",
+        "situations/errands-mysterious.json",
+        "situations/errands.json",
+        "situations/quests.json",
+        "weapons/melee.json",
+        "weapons/ranged.json"
+    ]
+}
