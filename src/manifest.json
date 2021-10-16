@@ -19,6 +19,9 @@
         "situations/errands.json",
         "situations/quests.json",
         "weapons/melee.json",
-        "weapons/ranged.json"
+        "weapons/ranged.json",
+        "entity/health.json",
+        "entity/mood.json",
+        "entity/size.json"
     ]
 }
