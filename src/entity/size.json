@@ -1,0 +1,15 @@
+{
+    "description": "a list of sizes",
+    "items": [
+        "small",
+        "large",
+        "tiny",
+        "huge",
+        "miniscule",
+        "immense",
+        "extremely large",
+        "super small",
+        "medium sized",
+        "barely visible"
+    ]
+}

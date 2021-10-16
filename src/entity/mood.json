@@ -1,0 +1,16 @@
+{
+    "description": "a list of moods",
+    "items": [
+        "happy",
+        "sad",
+        "melancholy",
+        "aloof",
+        "calm",
+        "carefee",
+        "synical",
+        "cautious",
+        "ambitious",
+        "dour",
+        "angry"
+    ]
+}
