@@ -10,6 +10,11 @@
         "field",
         "garden",
         "pond",
-        "meadow"
+        "meadow",
+        "beach",
+        "alley",
+        "cliff",
+        "mountaintop",
+        "hole"
     ]
 }
