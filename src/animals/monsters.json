@@ -1,23 +1,23 @@
 {
     "description":  "A list of fantasy creature / monster names",
     "items": [
-        "gorgon",
-        "giant snake",
-        "mermaid",
-        "giant",
-        "imp",
-        "ogre",
-        "goblin",
-        "werewolf",
-        "vampire",
-        "zombie",
-        "mummy",
-        "kraken",
+        "centaur",
         "chimera",
         "dire wolf",
+        "fairy",
+        "giant",
+        "giant snake",
         "giant spider",
-        "centaur",
+        "goblin",
+        "gorgon",
+        "imp",
+        "kraken",
+        "mermaid",
+        "mummy",
+        "ogre",
         "unicorn",
-        "fairy"
+        "vampire",
+        "werewolf",
+        "zombie"
     ]
 }
