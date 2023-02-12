@@ -8,6 +8,7 @@
         "attributes/colors.json",
         "items/food.json",
         "items/treasure.json",
+        "items/magical.json",
         "locations/places.json",
         "locations/rooms.json",
         "locations/weather.json",
