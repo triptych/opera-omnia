@@ -1,15 +1,23 @@
 {
     "description": "A list of treasures.",
     "items":[
-        "gold coin",
-        "diamond ring",
-        "golden crown",
-        "a large diamond",
-        "a golden cup",
-        "a jeweled sword",
-        "a silver mirror",
-        "a magic staff",
-        "a dragon bracelet"
-
+      "gold coin",
+      "gold bar",
+      "gold nugget",
+      "diamond ring",
+      "diamond",
+      "emerald",
+      "ruby",
+      "sapphire",
+      "amethyst",
+      "quartz",
+      "obsidian",
+      "golden crown", 
+      "a large diamond",
+      "a golden cup",
+      "a jeweled sword",
+      "a silver mirror",
+      "a magic staff",
+      "a dragon bracelet"
     ]
 }
