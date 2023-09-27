@@ -1,19 +1,19 @@
 {
-    "description": "A list of fun adverbs for games, bots, etc.",
-    "items": [
-      "broadly",
-      "cautiously", 
-      "merrily",
-      "sneakily",
-      "viciously",
-      "easily",
-      "quickly",
-      "coyly",
-      "sharply",
-      "too",
-      "finally",
-      "naturally",
-      "crazily",
-      "merrilly"
-    ]
+  "description": "A list of fun adverbs for games, bots, etc.",
+  "items": [
+    "broadly",
+    "cautiously",
+    "merrily",
+    "sneakily",
+    "viciously",
+    "easily",
+    "quickly",
+    "coyly",
+    "sharply",
+    "too",
+    "finally",
+    "naturally",
+    "crazily",
+    "merrilly"
+  ]
 }

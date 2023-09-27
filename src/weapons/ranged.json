@@ -1,16 +1,16 @@
 {
-    "description": "a list of ranged weapons",
-    "items": [
-        "shuriken",
-        "boomerang",
-        "bow",
-        "crossbow",
-        "spear",
-        "throwing axe",
-        "sling",
-        "slingshot",
-        "cannon",
-        "pistol",
-        "rifle"
-    ]
+  "description": "a list of ranged weapons",
+  "items": [
+    "shuriken",
+    "boomerang",
+    "bow",
+    "crossbow",
+    "spear",
+    "throwing axe",
+    "sling",
+    "slingshot",
+    "cannon",
+    "pistol",
+    "rifle"
+  ]
 }

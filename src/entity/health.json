@@ -1,17 +1,17 @@
 {
-    "description": "a list of health states",
-    "items": [
-      "healthy",
-      "sick",
-      "verge of death",
-      "under the weather",
-      "resting",
-      "anemic",
-      "poisoned",
-      "envigorated",
-      "exhausted",
-      "dying",
-      "bleeding",
-      "dead"
-    ]
+  "description": "a list of health states",
+  "items": [
+    "healthy",
+    "sick",
+    "verge of death",
+    "under the weather",
+    "resting",
+    "anemic",
+    "poisoned",
+    "envigorated",
+    "exhausted",
+    "dying",
+    "bleeding",
+    "dead"
+  ]
 }

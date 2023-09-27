@@ -1,25 +1,25 @@
 {
-    "description": "a list of colors",
-    "items": [
-      "black",
-      "blue",
-      "brown",
-      "green",
-      "orange",
-      "pink",
-      "purple",
-      "red",
-      "white",
-      "silver",
-      "gray",
-      "white",
-      "maroon",
-      "fuschia",
-      "lime",
-      "olive",
-      "yellow",
-      "navy",
-      "teal",
-      "aqua"
-    ]
+  "description": "a list of colors",
+  "items": [
+    "black",
+    "blue",
+    "brown",
+    "green",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "white",
+    "silver",
+    "gray",
+    "white",
+    "maroon",
+    "fuschia",
+    "lime",
+    "olive",
+    "yellow",
+    "navy",
+    "teal",
+    "aqua"
+  ]
 }

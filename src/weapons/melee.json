@@ -1,16 +1,16 @@
 {
-    "description": "A list of melee weapons.",
-    "items": [
-        "knife",
-        "dagger",
-        "sword",
-        "broadsword",
-        "epee",
-        "scythe",
-        "club",
-        "mace",
-        "hammer",
-        "board",
-        "baseball bat"
-    ]
+  "description": "A list of melee weapons.",
+  "items": [
+    "knife",
+    "dagger",
+    "sword",
+    "broadsword",
+    "epee",
+    "scythe",
+    "club",
+    "mace",
+    "hammer",
+    "board",
+    "baseball bat"
+  ]
 }
