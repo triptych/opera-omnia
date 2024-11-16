@@ -1,0 +1,25 @@
+{
+  "description": "A collection of siege weapons and war machines",
+  "items": [
+    "ballista",
+    "battering ram",
+    "bombard",
+    "catapult",
+    "demolition tower",
+    "fire projector",
+    "greek fire thrower",
+    "heavy mangonel",
+    "helepolis",
+    "onager",
+    "petrary",
+    "pierrière",
+    "ram tower",
+    "repeating ballista",
+    "scorpion",
+    "siege tower",
+    "springald",
+    "stone thrower",
+    "trebuchet",
+    "war wagon"
+  ]
+}

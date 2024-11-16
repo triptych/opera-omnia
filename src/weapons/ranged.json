@@ -1,16 +1,28 @@
 {
-  "description": "a list of ranged weapons",
+  "description": "A comprehensive list of ranged weapons for distance combat",
   "items": [
-    "shuriken",
+    "arbalest",
+    "atlatl",
+    "blowgun",
     "boomerang",
-    "bow",
+    "composite bow",
+    "compound bow",
     "crossbow",
-    "spear",
-    "throwing axe",
+    "dart",
+    "hand crossbow",
+    "heavy crossbow",
+    "javelin",
+    "light crossbow",
+    "long bow",
+    "net",
+    "recurve bow",
+    "repeating crossbow",
+    "shortbow",
     "sling",
-    "slingshot",
-    "cannon",
-    "pistol",
-    "rifle"
+    "throwing axe",
+    "throwing dagger",
+    "throwing knife",
+    "throwing spear",
+    "war javelin"
   ]
 }

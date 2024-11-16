@@ -65,7 +65,9 @@
       ],
       "weapons": [
         "melee.json",
-        "ranged.json"
+        "ranged.json",
+        "magical.json",
+        "siege.json"
       ],
       "world": [
         "factions.json",
