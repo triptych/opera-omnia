@@ -1,0 +1,54 @@
+{
+  "name": "opera-omnia",
+  "description": "A collection of JSON-based data sets for games, storytelling, and bot development",
+  "version": "1.0.0",
+  "license": "MIT",
+  "directories": {
+    "src": {
+      "attributes": [
+        "adjectives.json"
+      ],
+      "characters": [
+        "personalities.json",
+        "backstories.json"
+      ],
+      "equipment": [
+        "armor.json",
+        "tools.json",
+        "potions.json",
+        "artifacts.json",
+        "jewelry.json",
+        "mounts.json",
+        "siege-weapons.json",
+        "traps.json"
+      ],
+      "rpg": [
+        "classes.json",
+        "skills.json",
+        "status-effects.json",
+        "spells.json"
+      ],
+      "situations": [
+        "errands.json",
+        "quests.json"
+      ],
+      "story": [
+        "plot-twists.json"
+      ],
+      "world": [
+        "factions.json",
+        "cultures.json"
+      ]
+    }
+  },
+  "fileTypes": {
+    "json": {
+      "encoding": "utf-8",
+      "indentation": "2 spaces"
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2024-01-09",
+    "contributors": []
+  }
+}
