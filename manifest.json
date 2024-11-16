@@ -10,12 +10,21 @@
           "fantasy.json"
         ]
       },
+      "animals": [
+        "animals.json",
+        "monsters.json"
+      ],
       "attributes": [
         "adjectives.json"
       ],
       "characters": [
         "personalities.json",
         "backstories.json"
+      ],
+      "entity": [
+        "health.json",
+        "mood.json",
+        "size.json"
       ],
       "equipment": [
         "armor.json",
@@ -26,6 +35,19 @@
         "mounts.json",
         "siege-weapons.json",
         "traps.json"
+      ],
+      "items": [
+        "food.json",
+        "magical.json",
+        "treasure.json"
+      ],
+      "locations": [
+        "places.json",
+        "rooms.json",
+        "weather.json"
+      ],
+      "people": [
+        "npcs.json"
       ],
       "rpg": [
         "classes.json",
@@ -40,6 +62,10 @@
       "story": [
         "plot-twists.json",
         "dialogue.json"
+      ],
+      "weapons": [
+        "melee.json",
+        "ranged.json"
       ],
       "world": [
         "factions.json",
