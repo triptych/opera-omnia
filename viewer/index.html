@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opera Omnia Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Opera Omnia Viewer</h1>
+            <p>A simple viewer for the Opera Omnia dataset collection</p>
+        </header>
+        
+        <main>
+            <div class="controls">
+                <select id="categorySelect">
+                    <option value="">Select a category...</option>
+                </select>
+                <select id="fileSelect">
+                    <option value="">Select a file...</option>
+                </select>
+            </div>
+            
+            <div class="viewer">
+                <div class="metadata">
+                    <h2 id="currentFile">No file selected</h2>
+                    <p id="description"></p>
+                </div>
+                <div class="content">
+                    <ul id="itemList"></ul>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Data from <a href="https://github.com/triptych/opera-omnia" target="_blank">Opera Omnia Repository</a></p>
+        </footer>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
