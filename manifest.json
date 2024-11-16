@@ -5,6 +5,11 @@
   "license": "MIT",
   "directories": {
     "src": {
+      "activities": {
+        "fictional": [
+          "fantasy.json"
+        ]
+      },
       "attributes": [
         "adjectives.json"
       ],
@@ -33,7 +38,8 @@
         "quests.json"
       ],
       "story": [
-        "plot-twists.json"
+        "plot-twists.json",
+        "dialogue.json"
       ],
       "world": [
         "factions.json",
